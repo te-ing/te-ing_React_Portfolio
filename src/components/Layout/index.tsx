@@ -13,5 +13,5 @@ export default Layout;
 const Wrapper = styled.div`
   position: relative;
   width: 100vw;
-  hegiht: 100vh;
+  height: 100vh;
 `;

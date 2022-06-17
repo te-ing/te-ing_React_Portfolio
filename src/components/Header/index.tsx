@@ -28,4 +28,5 @@ const Circle = styled.div`
 const Title = styled.span`
   font-size: 1.2rem;
   font-family: "Domine", sans-serif;
+  color: black;
 `;
